@@ -10,7 +10,7 @@ This is an app designed to help you keep track of your workouts, you will be abl
 - [Testing Instructions](#testing)
 - [Questions](#questions)
 ## Installation
-No installation needed, you can visit the app here
+No installation needed, you can visit the [app here](https://arcane-dusk-38060.herokuapp.com)
 ## Usage
 You can add new workouts by clicking the new workout button and you can see your progress on the dashboard
 ## License
